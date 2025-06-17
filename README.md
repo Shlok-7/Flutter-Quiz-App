@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## ScreenShot
+## ScreenShot 
 
 ![Alt Text](https://github.com/Shlok-7/Flutter-Quiz-App/blob/master/Screenshot%202025-06-17%20174507.png?raw=true)
 
